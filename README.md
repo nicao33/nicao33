@@ -1,8 +1,8 @@
 # Eae tudo bem?
 
-Meu Nome é  Nicolas, mas pode me chamar de nicao, estudo analise e desenvolvimento de sistemas desde de 2023 e gosto muito de programar me sinto livre quando estou programando.
+Meu nome é Nicolas, mas pode me chamar de Nicao. Estudo Análise e Desenvolvimento de Sistemas desde 2023 e tenho grande paixão pela programação. Sinto-me verdadeiramente livre quando estou codificando.
 
-Esse perfil foi criado para adicionar todos os projetos desenvolvidos 
+Este perfil foi criado para compartilhar todos os projetos que desenvolvo.
 
 ### Para me encontrar
 
