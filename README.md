@@ -1,10 +1,10 @@
-### Olá! eu sou Nicolas Prado 👋
+### Hi! I'm Nicolas Prado 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-machado-593961271/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.pradoo/)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my daily life!
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="hmtml5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -17,6 +17,6 @@
 <img align="center" alt="hmtml5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
+Passionate about technology, education, and changing people's lives through programming.
 
-## Contato : contatonicolasprado@gmail.com
+## Contact :  contatonicolasprado@gmail.com
